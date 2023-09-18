@@ -32,17 +32,17 @@ After some exploration and analysis of the dataset, uncovering some valuable ins
 
 ◾️Cardio = 0 (People not having cardiovascular disease)
 
-<img src="images/plot0.png">
+<img src="plot0.png">
 
 ◾️Cardio = 1 (People not having cardiovascular disease)
 
-<img src="images/plot1.png">
+<img src="plot1.png">
 
 ➡ Here the Heatmap shows the relation between the columns of the dataset.
 
 (For the Heatmap, a correlation matrix is created first)
 
-<img src="images/Heatmap.png">
+<img src="Heatmap.png">
 
 ## **📃Data Source:**
 
