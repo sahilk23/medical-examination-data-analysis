@@ -7,14 +7,6 @@ This project analyzes medical examination data using the Pandas library and visu
 
 The dataset used in this project contains values that were collected during a medical examination. Also, the dataset will be used to explore the relation between cardiac disease, body measurements, results from various blood tests and lifestyle choices.
 
-## **Dataset Overview:**
-The dataset is structured as follows:
-
-● Rows represent individual patients.
-
-● Columns represent a wide range of info including body
-measurements, results from various blood tests and 
-lifestyle choices.
 
 ## **Project approach:**
 
@@ -23,6 +15,15 @@ lifestyle choices.
 ♦ Splitting the dataset into 0 and 1 of a column named “cardio” (cardiovascular disease) for displaying the visualization in the form of a grouped Bar chart. It will give the relation between blood test results and lifestyle choices for people not having the disease (0) and having the disease (1).
 
 ♦ After some sorting around height and weight, plotting a Heatmap using Seaborn and masking the upper triangle using numpy. Before that,  a correlation matrix should be made for a heatmap showing the relation between variables/columns.
+
+## **Dataset Overview:**
+The dataset is structured as follows:
+
+● Rows represent individual patients.
+
+● Columns represent a wide range of info including body
+measurements, results from various blood tests and 
+lifestyle choices.
 
 ## **Health Insights:**
 
